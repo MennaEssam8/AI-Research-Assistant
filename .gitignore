@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Data
+data/
+outputs/
+
+# VS Code
+.vscode/
